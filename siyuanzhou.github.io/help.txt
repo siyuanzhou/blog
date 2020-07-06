@@ -1,0 +1,9 @@
+重装系统要新生成public key 并添加
+安装nodejs
+
+使用npm命令安装Hexo，输入：
+
+npm install -g hexo-cli 
+
+hexo g
+hexo d
