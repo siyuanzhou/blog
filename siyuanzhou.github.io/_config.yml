@@ -112,7 +112,7 @@ deploy:
   type: git
   repo: 
     github: git@github.com:siyuanzhou/siyuanzhou.github.io.git
-    coding: git@git.dev.tencent.com:siyuanzhou/siyuanzhou.coding.me.git
+    coding: git@e.coding.net:siyuanzhou/siyuanzhou.coding.me.git
   branch: master
 
 sitemap:
