@@ -4,15 +4,15 @@
 
 
 # Site
-title: 俗染心
+title: 雾林鹿
 
 subtitle: 常思己过，莫论人非
 description: 大工软院15级，周思远,华科计院读研。
-author: 俗染心
+author: 雾林鹿
 language: 
 timezone: 
 email: siyuanzhou@163.com
-keywords:  "开发者,程序猿,编程,代码,blog,程序人生"
+keywords:  "开发者,程序猿,编程,代码,blog,程序人生,博客"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -112,7 +112,6 @@ deploy:
   type: git
   repo: 
     github: git@github.com:siyuanzhou/siyuanzhou.github.io.git
-    coding: git@e.coding.net:siyuanzhou/siyuanzhou.coding.me.git
   branch: master
 
 sitemap:
